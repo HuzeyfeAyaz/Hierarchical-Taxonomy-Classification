@@ -26,6 +26,7 @@
 ### Contributors:
 - [Ali Cakmak](https://github.com/alicakmak)
 - [Ali Reza Ibrahimzada](https://github.com/ali0jn)
+- [Gihad Sohsah](https://github.com/gnageeb)
 
 ### Server Specs we used:
 - Dell R720, 2 x Intel Xeon E5-2620V2 / 2.1 GHz 24core vCPU, 128GB Ram, 2.4 TB Storage.
